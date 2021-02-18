@@ -67,4 +67,4 @@ Route::get('/', function () {
 
 ```
 # Note
-- If you want to use the default Laravel View Path , keep THEME_APP `empty`
+- If you want to use the default Laravel View Path , keep APP_THEME `empty`
