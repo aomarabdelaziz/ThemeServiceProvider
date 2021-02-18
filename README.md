@@ -1,5 +1,5 @@
 # ThemeServiceProvider
-- ThemeServiceProvider class is based on PHP with Laravel-Framework , helping you to add more than theme layout without change/renmove the default view path
+- ThemeServiceProvider class is based on PHP with Laravel-Framework , helping you to add more than theme layout without change/remove the default view path
 ### Installation
 - Copy `ThemeServiceProvider.php` to `app\Providers`
 - Add `ThemeServiceProvider::class` to `Application Service Providers` at `config\app`
